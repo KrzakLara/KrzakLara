@@ -2,10 +2,10 @@
 <h1> &#x1F44B; Hi, I am Lara!</h1>
 </p>
 
-
 <p align="center">
   <h3><b>Software Engineer | .Net Developer | Full Stack Developer</b></h3>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <a href="https://www.linkedin.com/in/larakrzak/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Passionate+about+coding+and+project+management;Continuously+embracing+new+technologies&font=Roboto&center=true&width=500&height=50&color=FF69B4&vCenter=true&pause=1000&size=22" />
