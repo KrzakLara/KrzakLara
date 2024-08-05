@@ -16,7 +16,7 @@
 
 👩🏻‍🎓 Bachelor's at Algebra University College
 
-✨I excel in web and mobile development, database management, and am passionate about project management
+✨I excel in web, database management, and am passionate about project management
 
 🤝I thrive on collaboration, continuously seek to challenge myself, and am committed to contributing to impactful projects. 
 
