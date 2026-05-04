@@ -1,62 +1,86 @@
 ## Lara Kržak
 
-Software Engineer focused on backend systems, AI-driven applications, and intelligent automation.
+Software Engineer focused on building backend systems and AI-driven applications.
 
-I build systems that combine software engineering with AI and automation, including:
-- AI assistants and chatbots (RAG, LLM APIs)
-- automation workflows and AI-driven processes
+I design and implement real-world systems where AI is one component of a larger pipeline — from data processing and APIs to LLM integration, validation, and automation.
+
+---
+
+### What I Work On
+
 - backend systems and APIs
-- data-driven applications
+- AI-assisted applications (LLMs, RAG)
+- automation workflows and data pipelines
+- integrating AI into real-world use cases
 
 ---
 
 ### Tech
 
-**Languages & Backend**
+**Backend & Languages**  
 C#, .NET, Python  
-REST APIs, Microservices, Authentication (JWT, OAuth2)
+REST APIs, Microservices, Auth (JWT, OAuth2)
 
-**AI / Automation**
-LLMs, RAG systems, Prompt Engineering  
-AI automation, workflow automation, API integrations  
-TensorFlow / Keras, NLP
+**AI / Automation**  
+LLM APIs, RAG (structured data retrieval)  
+Prompt design, output validation, workflow automation  
+Basic NLP (TensorFlow / Keras)
 
-**Frontend**
-React, TypeScript, HTML, CSS
+**Frontend**  
+React, TypeScript, HTML, CSS  
 
-**Databases**
-PostgreSQL, MSSQL
-
-**Other**
-Docker, CI/CD, RabbitMQ
+**Data & Infra**  
+PostgreSQL, MSSQL  
+Docker, CI/CD, RabbitMQ  
 
 ---
 
 ### Selected Work
 
-- AI Log Analyzer  
-  Built a system for analyzing application logs and detecting errors using LLMs. Automates issue identification and provides AI-assisted insights for debugging and system monitoring.
+**AI Log Analyzer**  
+Built a system that processes application logs and uses LLMs to identify patterns, errors, and anomalies.  
+Designed a pipeline for input processing → analysis → structured output for debugging and monitoring.
 
-- AI Customer Support Chatbot (RAG)  
-  Designed and implemented a chatbot using retrieval-augmented generation to provide accurate, context-aware responses from a structured knowledge base.
+---
 
-- Voice AI Assistant  
-  Developed a real-time voice assistant integrating speech-to-text and text-to-speech with conversational AI and product-aware logic.
+**AI Customer Support Chatbot (RAG)**  
+Implemented a retrieval-based chatbot using structured product data (Excel dataset).  
+User queries are matched to relevant data and passed to an LLM for context-aware responses.  
+Focused on reducing hallucinations through controlled context and response validation.
 
-- AI Marketing Campaign Generator  
-  Built an AI automation tool that generates marketing campaigns, captions, and content based on product input and target audience.
+---
 
-- Automated Form Filling System (RPA-style automation)  
-  Developed a script that detects form fields dynamically (e.g. “First Name”) and maps them to structured data from Excel, automatically populating forms with correct values.
+**Voice AI Assistant**  
+Designed a voice pipeline:  
+audio → speech-to-text → text processing → LLM → text-to-speech  
+Optimized for response clarity, latency, and real-world usability.
 
-- Gamified Financial Literacy App  
-  Full-stack mobile application (Flutter + ASP.NET Core) with gamification systems, achievement tracking, and real-time data visualization.
+---
+
+**AI Marketing Campaign Generator**  
+Built a system that generates marketing content from structured input (product + target audience).  
+Used prompt iteration and A/B testing to improve consistency and output quality.  
+Reduced unnecessary API calls through better prompt design and flow control.
+
+---
+
+**Automated Form Filling System**  
+Developed a script that detects form fields dynamically and maps them to structured data from Excel.  
+Automates data entry workflows by matching field labels (e.g. "First Name") to correct values.
+
+---
+
+**Gamified Financial Literacy App**  
+Full-stack mobile app (Flutter + ASP.NET Core).  
+Includes gamification logic, user progress tracking, and real-time data visualization.
 
 ---
 
 ### About
 
-I enjoy building systems outside of work and continuously improving how I approach software development, especially at the intersection of AI and automation.
+I like building systems end-to-end and understanding how things actually work under the hood.
+
+Currently exploring more advanced AI workflows and how to use LLMs effectively in development (beyond simple prompt usage).
 
 ---
 
